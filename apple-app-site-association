@@ -1,0 +1,21 @@
+{
+"applinks": {
+"apps": [],
+"details": [
+{
+"appID": "9GTLXD526U.ru.chudnyi.trackerapp",
+"paths": [
+"NOT /_/*",
+"/*"
+]
+},
+{
+"appID": "9GTLXD526U.com.metricslife.iosapp",
+"paths": [
+"NOT /_/*",
+"/*"
+]
+}
+]
+}
+}
